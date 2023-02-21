@@ -6,4 +6,6 @@ body {
     font-size: 14px;
     display: flex;
     flex-direction: column;
+    background: url(../images/icon.png);
+
 }
